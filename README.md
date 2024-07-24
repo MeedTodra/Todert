@@ -1,4 +1,4 @@
-# todert
+# Todert
 A beautiful WordPress theme
 
 Todert in Tamazight means "LIFE", so while creating this theme, my main focus is to give your website the life it deserves.
@@ -11,10 +11,10 @@ Just contact me at: mohamed@achermouk.com
 Let's enjoy the journey of learning and making the good impact.
 
 
-Best regards.
-Mohamed ACHERMOUK
-Web developer
-mohamed@achermouk.com
+Best regards.||
+Mohamed ACHERMOUK ||
+Web developer ||
+mohamed@achermouk.com ||
 website: achermouk.com
 
 
