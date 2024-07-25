@@ -37,41 +37,66 @@
 			],
 			"gradients": [
 				{
-				  "slug": "todert-gradient-1",
-				  "gradient": "linear-gradient(to bottom, #cfcabe 0%, #F9F9F9 100%)",
-				  "name": "Tranquil Blue"
+					"slug": "todert-gradient-primary",
+					"gradient": "linear-gradient(120deg, #00B1BE 0%, #0097B9 100%)",
+					"name": "Todert Gradient"
 				},
 				{
-				  "slug": "todert-gradient-2",
-				  "gradient": "linear-gradient(to bottom, #857A27 0%, # 100%)",
-				  "name": "Grades of Purple"
+					"slug": "todert-gradient-1",
+					"gradient": "linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%)",
+					"name": "Winter Neva"
 				},
 				{
-				  "slug": "todert-gradient-3",
-				  "gradient": "linear-gradient(to bottom, #D8613C 0%, #F9F9F9 100%)",
-				  "name": "Rustic Reflections"
+					"slug": "todert-gradient-2",
+					"gradient": "linear-gradient(to top, #fdcbf1 0%, #fdcbf1 1%, #e6dee9 100%)",
+					"name": "Frozen Dreams"
 				},
 				{
-				  "slug": "todert-gradient-4",
-				  "gradient": "linear-gradient(to bottom, #B1C5A4 0%, #F9F9F9 100%)",
-				  "name": "Sage Serenity"
+					"slug": "todert-gradient-3",
+					"gradient": "linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%)",
+					"name": "Grey Grades"
 				},
 				{
-				  "slug": "todert-gradient-5",
-				  "gradient": "linear-gradient(to bottom, #B5BDBC 0%, #F9F9F9 100%)",
-				  "name": "Misty Mint"
+					"slug": "todert-gradient-4",
+					"gradient": "linear-gradient(to top, #30cfd0 0%, #330867 100%)",
+					"name": "Morpheus Den"
 				},
 				{
-				  "slug": "poster-6",
-				  "gradient": "linear-gradient(to bottom, #7BAF9E 0%, #F9F9F9 100%)",
-				  "name": "Renewal"
+					"slug": "todert-gradient-5",
+					"gradient": "linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%)",
+					"name": "Tempting Azure"
 				}
 			  ],
 			"palette": [
 				{
-					"color": "",
-					"name": "",
-					"slug": ""
+					"color": "#987ACD",
+					"name": "Todert Color",
+					"slug": "todert-primary-color"
+				},
+				{
+					"color": "#60CDF1",
+					"name": "Heaven Blue",
+					"slug": "todert-secondary-color"
+				},
+				{
+					"color": "#C3F9FF",
+					"name": "Light Blue",
+					"slug": "todert-light-color"
+				},
+				{
+					"color": "#F69333",
+					"name": "Todert Orange",
+					"slug": "todert-attractive-color"
+				},
+				{
+					"color": "#FFFFFF",
+					"name": "Todert White",
+					"slug": "todert-white-color"
+				},
+				{
+					"color": "#111111",
+					"name": "Todert Black",
+					"slug": "todert-black-color"
 				}
 			]
 		},
